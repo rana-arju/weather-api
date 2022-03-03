@@ -1,0 +1,3 @@
+# weather-api
+Weather API...You Can Search for Any Place (like : Dhaka, cox's Bazar, London, etc) name and Then show their weather status...
+Live Link: https://rana-arju.github.io/weather-api/
